@@ -133,7 +133,7 @@ On our EC2 menu, we will navigate to the Auto Scaling Group option and select '*
 
 - For template, we are creating a lunch template.
 
-![ASG](./IMG/17..png)
+![ASG](./Img/17..png)
 
 - The name for our lunch template is '*my-first-launch-temp*'.
 
